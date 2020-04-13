@@ -23,5 +23,5 @@ Route::get('/test', 'TestController@index');
 
 
 Route::get('/home', 'HomeController@index')->name('home');
-Route::get('/home', 'HomeController@index')->name('home');
+
 
